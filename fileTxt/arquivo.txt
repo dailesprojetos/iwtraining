@@ -1,0 +1,2 @@
+melancia,1.25/n
+laranja,1.25/n

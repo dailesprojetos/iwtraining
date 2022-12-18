@@ -1,0 +1,5 @@
+arroz,1.1
+ovos,1.4
+sal,4.5
+teste,1.6
+model,4.7
