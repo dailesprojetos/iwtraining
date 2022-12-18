@@ -7,6 +7,12 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Cursos_Java\iwtraining\vendas"/>
+			<item value="C:\Cursos_Java\iwtraining\projeto"/>
+			<item value="C:\Cursos_Java\iwtraining\logicadeprogramacao"/>
+			<item value="C:\Cursos_Java\iwtraining\fileTxt"/>
+			<item value="C:\Cursos_Java\iwtraining\estoque"/>
+			<item value="C:\Cursos_Java\iwtraining\algoritmos"/>
 			<item value="C:\Cursos_Java\iwtraining\poo"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
