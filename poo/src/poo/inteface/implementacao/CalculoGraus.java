@@ -1,4 +1,4 @@
-package heranca.inteface.implementacao;
+package poo.inteface.implementacao;
 
 public interface CalculoGraus {
 	
